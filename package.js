@@ -14,7 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.0.3.2');
 
 	api.use('fourseven:scss', 'client');
-	api.imply('fourseven:scss');
+	api.imply('fourseven:scss@1.0.0');
 
 	api.addFiles('scss.json', 'server');
 	api.addFiles('scss-flex-grid/_flex-grid.scss', 'server', { isAsset: true });
