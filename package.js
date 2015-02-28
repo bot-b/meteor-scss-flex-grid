@@ -19,6 +19,3 @@ Package.onUse(function(api) {
 	api.addFiles('scss.json', 'server');
 	api.addFiles('scss-flex-grid/_flex-grid.scss', 'server', { isAsset: true });
 });
-
-Package.onTest(function(api) {
-});
