@@ -1,0 +1,3 @@
+[submodule "scss-flex-grid"]
+	path = scss-flex-grid
+	url = git@github.com:matthewsimo/scss-flex-grid.git
