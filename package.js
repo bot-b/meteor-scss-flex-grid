@@ -1,10 +1,10 @@
 Package.describe({
   name: 'matthewsimo:scss-flex-grid',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Adds scss-flex-grid',
   // URL to the Git repository containing the source code for this package.
-  git: 'git@github.com:matthewsimo/meteor-scss-flex-grid.git',
+  git: 'https://github.com/matthewsimo/meteor-scss-flex-grid.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
